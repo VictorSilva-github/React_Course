@@ -2,7 +2,7 @@ function Header(){
     return (
         <header>
             <h1>
-                Header Teste
+                Filmes
             </h1>
         </header>
     )
