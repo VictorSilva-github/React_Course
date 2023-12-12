@@ -14,7 +14,7 @@ function App() {
       <Book livro={book2} />
       <Book livro={book3} />
       <Book livro={book4} />
-      <div className="container">
+      <div className="container bg-info" >
           <Book2 data={data} />
       </div>
 
@@ -22,5 +22,4 @@ function App() {
 
   )
 }
-
 export default App
